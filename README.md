@@ -4,7 +4,7 @@ Under the leadership of Dr. Eleazar Welbourne, I utilized PyCharm and Jupyter No
 In the _**'Raw Data'**_ folder, we were interested in a subset of data in the PDFs, sourced from nalpdirectory.com - each firm's General Practice Areas, number of partners, number of counsel, number of associates, number of entry-level placements last year, number of non-traditional track/staff attorneys, and their organizational narrative. 
 
 In order to scrape the data into a structured dataframe, I used PyPDF2 and re python libraries.
-As seen in the _**'Intermediary Python Code'**_:
+As seen in the _**'Intermediary Python Code'**_ folder:
 _**'ScrapePDFText.py'**_ details this code.
 **_'MainFileNALP.ipynb'_** details my code to scrape the General Practice table into multiple columns of data. 
 **_'NotAllFives_Fours-numbers.ipynb'_** & **_'NotAllFives_Fours-ScrapingPracticeAreas.ipynb'_** handled scraping when missing data was involved.
