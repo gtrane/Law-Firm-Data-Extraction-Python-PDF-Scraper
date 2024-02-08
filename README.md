@@ -3,6 +3,6 @@ Under the leadership of Dr. Eleazar Welbourne, I utilized PyCharm and Jupyter No
 
 In order to scrape the data into a structured dataframe, I used PyPDF2 and re python libraries. _**'ScrapePDFText.py'**_ details this code.
 **_'MainFileNALP.ipynb'_** details my code to scrape the General Practice table into multiple columns of data. 
-_**'NotAllFives_Fours-numbers.ipynb'** & _**_'NotAllFives_Fours-ScrapingPracticeAreas.ipynb'_**_ handled scraping when missing data was involved.
+**_'NotAllFives_Fours-numbers.ipynb'_** & **_'NotAllFives_Fours-ScrapingPracticeAreas.ipynb'_** handled scraping when missing data was involved.
 
 This project involved a self-start mentality and problem solving skills in order to troubleshoot the pattern recognition required to successfully scrape the data and thereafter disaggregate it into multiple new columns. I relied on my critical thinking skills and curiosity to achieve a desired outcome.
